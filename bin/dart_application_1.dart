@@ -98,3 +98,6 @@
 // print("age = $age");
 // print("cgpa) = $cgpa");
 // }
+void main(List<String> args) {
+  
+}
