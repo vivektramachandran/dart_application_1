@@ -98,6 +98,109 @@
 // print("age = $age");
 // print("cgpa) = $cgpa");
 // }
-void main() {
+
+
+
+
+// void main() {
+//   ///arthmetic operator + - * / % ~/
+//   int a = 7, b = 2 ;
+//   print ('$a + $b =${a+b}');
+//   print ('$a - $b =${a-b}');
+//   print ('$a * $b =${a*b}');
+//   print ('$a / $b =${a/b}');
+//   print ('$a % $b =${a%b}');
+//   print ('$a ~/ $b =${ab}');
   
-}
+// }
+
+
+
+// void main(){
+// ///assgnment operator = += -= *= /= %=  ~/= etc
+// dynamic x = 12, y = 5;
+
+// print("x =y -> ${x=y}"); //x = y so x= 5
+// print("x += y -> ${x+=y}"); // x= x+y =5+5 = 10
+// print("x -= y -> ${x-=y}");      // x=x-y =10-5 =5
+// print("x *= y -> ${x*=y}");      //x=x*y =5*5= 25
+// print("x /= y ->${x/=y}");    //x =x/=y =25/5=5.0
+// print("x %= y -> ${x%=y}");
+// print("x ~/= y -> ${x~/=y}");
+// }
+
+
+// void main(){
+//   ///relational operator > < >= <= == !=
+// int i = 100, j =23;
+// print ('i > j -> ${i>j}');
+// print ('i < j -> ${i<j}');
+// print ('i >= j -> ${i>=j}');
+// print ('i <= j -> ${i<=j}');
+// print ('i == j -> ${i==j}');
+// print ('i != j -> ${i!=j}');
+  
+  
+//   }
+
+
+
+
+
+// void main()
+// {
+//   ///logical operators && || !
+  
+  // String username ="admin";
+  // String password ="abc123";
+//   int otp = 1234;
+//   print (username =='Admin' && password == 'abc123'); //false && true = false
+//   print (username =='Admin' && password == 'abc123' || otp == 1234);// false||true
+//   print (!(username =='Admin' && password == 'abc123'));
+//   //&&- and ||- or !- not
+
+// }
+
+
+
+// void main(){
+// // type test operator - is is!
+// double k = 100; // 100.0
+// print(k is int);
+// print(k is! String);
+
+// }
+
+
+
+
+///bitwise operator & | ^(xor)  - to perform operations on binory values
+///shift operators  >> (right shift)  <<(left shift operator)
+
+
+///*** condional operator 
+///1. expresion/condition  ? true statement : false statement;
+///2. expression1 ?? expression2
+/// ( if expression1 is null then expression2n will execute else expression1 will executed)
+
+
+// void main(){
+//   var result = (username == 'Admin' && password == 'abc123')?
+//   'welcome user' : 'Incorrect username or password';
+//     print(result);
+
+//     String? name ="Anugraha"; //if name is defined then the length will be displayed or else the null message will be displayed
+//     print(name.length);
+
+//     int x =100,y = 200, z = 300;
+//     var out = x > y ? (y > z ? y : z) : z;
+//     print("$out is largest");
+// }
+
+
+
+
+
+
+
+
